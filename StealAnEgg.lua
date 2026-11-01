@@ -1,7 +1,3 @@
--- ============================================================================
--- VN HUB 🇻🇳 | Steal An Egg (PlaceId: 107778070777162)
--- 100% Standalone VN HUB Script | Tự Động Lưu Cài Đặt
--- ============================================================================
 pcall(function()
 local oldFiles = {
 "autoexec/KuboHub_StealAnEgg.lua",
